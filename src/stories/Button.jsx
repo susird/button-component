@@ -8,8 +8,8 @@ const STYLES = [
   "button--danger--solid",
   "button--outline",
   "button--text",
-  "button--disable-shadow",
-  "button--disable-text",
+  "button--disable--shadow",
+  "button--disable--text",
   "button--disable",
 ]
 
